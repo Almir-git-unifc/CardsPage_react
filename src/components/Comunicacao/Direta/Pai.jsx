@@ -6,6 +6,6 @@ export default (props) =>
 // O pai pode ter vários filhos
    <div>
       <Filho {...props}>nomeFilho: João</Filho>  
-      <Filho Sobrenome="Silva">nomeFilho: Maria</Filho>
+      <Filho Sobrenome={props.Sobrenome}>nomeFilho: Maria</Filho>
       <Filho Sobrenome="Silva">nomeFilho: Pedro</Filho>
    </div>
