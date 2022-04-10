@@ -15,7 +15,7 @@ import Pai from './components/Comunicacao/Direta/Pai.jsx'
 export default props =>
     <div className="App">
 
-        <Card titulo="#7 - título: Cominicação Direta" color="#FA6900">
+        <Card titulo="#7 - título: Cominicação Direta" color="#4298B5">
             <Pai></Pai>
         </Card>
 
