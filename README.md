@@ -4,7 +4,7 @@ docs(script):  v00-01-000 - Selecionamos todos os arquivos da versão anterior e
 
 style(script): v01-00-000 - React change card border colors" Ajustado as cores do rodapé e das bordas dos CARDS.
 
-
+feat(react): v01-01-000 - React-JS - Heritage between Pai and Filho and New Border Color Card 7, update README
 
 
 
