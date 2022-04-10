@@ -1,5 +1,5 @@
 import React from 'react'
-import produtos from '../data/v17_f10-r16_ed27_products.js'
+import produtos from '../../data/v17_f10-r16_ed27_products.js'
 
 
 // export default props => {   precisou ser substituido pois dava erro, rodava mas dava mensagem de erro

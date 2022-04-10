@@ -13,7 +13,7 @@
   /** Por isso colocamos min-width:350px */
   }
 
-.Card .Conteudo{
+.Card .Content{
   Flex: 1;  /**  Faz com que o componente cresça */
   padding: 15px 0px;  /** Vamos dar espaçamento vertical de 10 px */
   color: #000;

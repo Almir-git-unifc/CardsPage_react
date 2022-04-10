@@ -1,7 +1,8 @@
 
-App local
-Test - in hub = include only this file
-First commit
+
+docs(script):  v00-01-000 - Selecionamos todos os arquivos da versão anterior e Enviamos para o GitHub
+
+style(script): v01-00-000 - React change card border colors" Ajustado as cores do rodapé e das bordas dos CARDS.
 
 
 
