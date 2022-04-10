@@ -5,7 +5,7 @@ import Filho from './Filhos'
 export default (props) => 
 // O pai pode ter vários filhos
    <div>
-      <Filho Sobrenome="Silva">nomeFilho: João</Filho>  
+      <Filho {...props}>nomeFilho: João</Filho>  
       <Filho Sobrenome="Silva">nomeFilho: Maria</Filho>
       <Filho Sobrenome="Silva">nomeFilho: Pedro</Filho>
    </div>

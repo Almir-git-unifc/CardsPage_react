@@ -16,7 +16,7 @@ export default props =>
     <div className="App">
 
         <Card titulo="#7 - título: Cominicação Direta" color="#4298B5">
-            <Pai></Pai>
+            <Pai Sobrenome="Freitas"></Pai>
         </Card>
 
         <Card titulo="#6 - título Card6: Condicional" color="#FA6900">

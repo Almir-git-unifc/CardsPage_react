@@ -1,11 +1,12 @@
 
 
-docs(script):  v00-01-000 - Selecionamos todos os arquivos da versão anterior e Enviamos para o GitHub
+v00-01-000 docs(script):  Selecionamos todos os arquivos da versão anterior e Enviamos para o GitHub
 
-style(script): v01-00-000 - React change card border colors" Ajustado as cores do rodapé e das bordas dos CARDS.
+v01-00-000 style(script): React change card border colors" Ajustado as cores do rodapé e das bordas dos CARDS.
 
-feat(react): v01-01-000 - React-JS - Heritage between Pai and Filho and New Border Color Card 7, update README
+v01-01-000 feat(react): React-JS - option 2 - Heritage between Pai and Filho and New Border Color Card 7, update README
 
+v01-01-000 feat(react): React-JS - option 2 - Heritage between Pai and Filho"
 
 
 
