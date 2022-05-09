@@ -1,6 +1,0 @@
-.App{
-    display: flex;
-    flex-wrap: wrap;    
-   /** Para permitir o Card quebrar a linha e passar o excedente para a linha debaixo */
-   /** Vide Card.css min-width:350px e se por valor 300px vai dar erro no layout */
-}

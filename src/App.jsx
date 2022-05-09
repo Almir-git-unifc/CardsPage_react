@@ -1,21 +1,21 @@
-import './v15_f9-r14_ed25_App.css'
+import './App.css'
 import React from 'react'
 
 
-import './components/layout/v16_f7-r15_ed26_Card.css'
-import Primeiro from './components/basicos/v04_f3-r04_ed05_Primeiro.jsx'
-import ComParametro from './components/basicos/v06_f4-r06_ed07_ComParametro.jsx'
-import ComFilhos from './components/basicos/v07_f5-r07_ed10_ComFilhos.jsx'
-import Card from './components/layout/v10_f6-r10_ed16_Card.jsx'
-import Repeticao from './components/basicos/v17_f11-r16_ed28_Repeticao'
-import Condicional from './components/basicos/v19_f12-r18_ed34_Condicional.jsx'
-import CondicionalComIf from './components/basicos/v20_f13-r19_ed37_CondicionalComIf'
+import './components/layout/Card.css'
+import Primeiro from './components/basicos/Primeiro.jsx'
+import ComParametro from './components/basicos/ComParametro.jsx'
+import ComFilhos from './components/basicos/ComFilhos.jsx'
+import Card from './components/layout/Card.jsx'
+import Repeticao from './components/basicos/Repeticao'
+import Condicional from './components/basicos/Condicional.jsx'
+import CondicionalComIf from './components/basicos/CondicionalComIf'
 import Pai from './components/Comunicacao/Direta/Pai.jsx'
 
 export default props =>
     <div className="App">
 
-        <Card titulo="#7 - título: Cominicação Direta" color="#4298B5">
+        <Card titulo="#7 - título: Comunicação Direta" color="#4298B5">
             <Pai Sobrenome="Freitas"></Pai>
         </Card>
 

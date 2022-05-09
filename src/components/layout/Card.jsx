@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default props =>  /** componente baseado em função */
- /** O que tiver dentro da tag Card será passada no Conteudo*/
+export default props => 
+
   <div className="Card" style= {{borderColor: props.color || '#000'}}>
 
     <div className="Content">
