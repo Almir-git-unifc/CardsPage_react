@@ -1,7 +1,5 @@
 # simplecolorCardsPage-react_js
 
-#### feat(react): v01-01-000 - React-JS - Inheritance between father and son on bordercolor cards
-
 Single page application, which uses cards with border-color and the inheritance principle
 Aplicativo de página única, que usa cartões com bordas coloridas e o principio da herança
 
