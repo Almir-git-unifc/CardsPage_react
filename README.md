@@ -33,12 +33,12 @@ From your command line:
 
 &nbsp;
 ## Clone this repository
-### $ `git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js`
+### $ `git clone https://github.com/Almir-git-unifc/CardsPage_simple_react-js`
 
 
 &nbsp;
 ## Go to repository
-### $ `cd colorCardsPage-react_js`
+### $ `cd CardsPage_simple_react-js`
 
 
 &nbsp;
