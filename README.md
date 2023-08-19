@@ -7,7 +7,7 @@ Aplicativo de página única, que usa cartões com bordas coloridas e o principi
 
 
 # Demo
-![cards page](https://github.com/almirramb/Ionic3-Curse/blob/master/ascreenshot.png)
+![cards page](https://github.com/Almir-git-unifc/CardsPage_simple_react-js/blob/main/ascreenshot.png)
 
 
 --------------------------------------------------------------------------------------
