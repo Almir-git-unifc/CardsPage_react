@@ -1,4 +1,4 @@
-# simplecolorCardsPage-react_js
+# simple color CardsPage in react_js
 
 Single page application, which uses cards with border-color and the inheritance principle
 Aplicativo de página única, que usa cartões com bordas coloridas e o principio da herança
